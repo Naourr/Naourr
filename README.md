@@ -1,7 +1,7 @@
 # Notes
 Currently:
 
-- Im done with html css and js for now. Wanna move on to python next, for college.
+- Im done with html css and js for now. Starting python now yay
 - So nevermind trying react, tailwind, and sass.
 - Still gotta try touch typing soon.
 - Ive recorded some guitar riffs i learned. Its not perfect but good enough yipe
